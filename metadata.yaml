@@ -1,0 +1,24 @@
+_repo: The-Project-Gutenberg-Encyclopedia--13-Volume-1-of-28_200
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Project Gutenberg
+    alias: Gutenberg, Project
+    gutenberg_agent_id: '114'
+    url: http://www.gutenberg.org/2009/agents/114
+description: ''
+gutenberg_bookshelf: Reference
+gutenberg_issued: '1995-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '200'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AE'
+- !lcsh 'Encyclopedias and dictionaries'
+- GITenberg
+title: "The Project Gutenberg Encyclopedia\r\nVolume 1 of 28"
+url: http://www.gutenberg.org/ebooks/200
