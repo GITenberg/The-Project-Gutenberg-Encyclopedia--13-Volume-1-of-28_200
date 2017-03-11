@@ -1,5 +1,8 @@
 _repo: The-Project-Gutenberg-Encyclopedia--13-Volume-1-of-28_200
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Project Gutenberg
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '114'
     url: http://www.gutenberg.org/2009/agents/114
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/200#The-Project-Gutenberg-Encyclopedia--13-Volume-1-of-28
 gutenberg_bookshelf: Reference
 gutenberg_issued: '1995-01-01'
 gutenberg_type: Text
